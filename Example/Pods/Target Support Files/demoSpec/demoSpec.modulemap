@@ -1,0 +1,6 @@
+framework module demoSpec {
+  umbrella header "demoSpec-umbrella.h"
+
+  export *
+  module * { export * }
+}

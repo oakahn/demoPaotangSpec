@@ -1,0 +1,29 @@
+{
+  "name": "demoSpec",
+  "version": "0.1.0",
+  "summary": "Batman",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/oakahn/demoPaotangSpec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oakahn": "mjpoak@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/oakahn/demoSpec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.0",
+  "source_files": "demoSpec/Classes/**/*",
+  "resource_bundles": {
+    "demoSpec": [
+      "demoSpec/Assets/*.xcassets"
+    ]
+  },
+  "swift_version": "4.0"
+}
